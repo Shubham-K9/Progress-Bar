@@ -13,7 +13,7 @@ function App() {
         <h1>Progress Bar</h1>
       </div>
       <div className='progress-container'> 
-            <Prgbar progress={75}/>
+            <Prgbar progress={55}/>
         </div>
       
     </>
